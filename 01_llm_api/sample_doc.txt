@@ -1,0 +1,12 @@
+
+LangChain is a framework for building applications powered by large language models.
+It provides tools for chaining LLM calls, connecting to external data sources,
+and building agents that can use tools to complete tasks.
+
+Key components of LangChain:
+1. Chains: sequences of LLM calls linked together
+2. Agents: LLMs that decide which tools to use and when
+3. Memory: storing and retrieving conversation history
+4. Tools: external functions an agent can call (search, calculator, APIs)
+
+LangChain supports multiple LLM providers including OpenAI, Anthropic, and Groq.
